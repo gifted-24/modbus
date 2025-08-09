@@ -1,0 +1,31 @@
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+virtualenv/
+virtual-env/
+venv/
+.venv/
+
+# Distribution / build
+.Python
+build/
+dist/
+*.egg-info/
+
+# Logs and temporary files
+*.log
+*.tmp
+*~
+
+# OS generated files
+.DS_Store
+thumbs.db
+
+# IDE specific files
+.idea/
+.vscode/
